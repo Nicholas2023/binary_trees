@@ -5,7 +5,7 @@
  * @array: Pointer to the first element of the array to be converted.
  * @size: Number of elements in the array.
  *
- * Return: A pointer to the root node of the created AVL tree 
+ * Return: A pointer to the root node of the created AVL tree
  * or NULL on failure.
  */
 avl_t *array_to_avl(int *array, size_t size)
